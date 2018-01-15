@@ -1,4 +1,4 @@
-Close Button Overlay Sample
+Footer Button Overlay Sample
 ==========
 
 React Native footer overlay sample.
